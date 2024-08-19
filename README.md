@@ -1,0 +1,2 @@
+# azurefunction
+Example Azure Fuynction
